@@ -1,0 +1,18 @@
+Step one: Create File in Terminal using
+								vi directory/Folder file.name
+
+Step two: Click "a" to add to the document and then click "esc" and then type ":wq" to save and quit
+
+Step three: Click type "git add file.name" or "git add *" if everything in the repository should go in Git
+
+Step Four: Type "git status".
+		If the file you want to upload is in green you have successfully uploaded it to the queue
+		If Not, try Step three again
+
+Step Five: type in 
+		git commit -m "Your initials"
+
+Step six: type in
+		git push origin master
+
+Step seven: Successfully uploaded to git
