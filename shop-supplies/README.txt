@@ -1,1 +1,1 @@
-Contains information about things needed to maintain adn sustain the shop
+Contains information about things needed to maintain and sustain the shop
